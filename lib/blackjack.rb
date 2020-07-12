@@ -42,7 +42,7 @@ card_total += deal_card
 elsif user_input == "s"
  card_total
 else
-   invalid_command 
+   invalid_command
 hit?(card_total)
  end
 
